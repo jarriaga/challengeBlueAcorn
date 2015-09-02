@@ -1,6 +1,6 @@
 <?php
 /**
- * Class AbstractProduct
+ * Class ProcessSale
  * @package IceCreamShop
  * Author: Jesus Arriaga Barron jarriagabarron@gmail.com
  * Description: this class handle and process the sell
